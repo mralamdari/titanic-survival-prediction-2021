@@ -1,5 +1,5 @@
 In This Project, With the use of Machine learning algorithms, 
-Chance of survival in taitanic is predicted.
+The chance of survival in the titanic accident is being predicted.
 
-Do you wanna know if you were on the titanic, How much would be your chance of surviving?
+Do you want to know if you were on the titanic, How much would be your chance of surviving?
 You can try it here ;)
